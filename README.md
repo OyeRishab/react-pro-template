@@ -7,19 +7,22 @@ This is a versatile ReactJS template designed to kickstart your web development 
 - **React Router DOM:** Enables declarative routing for your React applications, allowing you to navigate between different components seamlessly.
 - **Tailwind CSS:** A utility-first CSS framework that provides low-level utility classes to quickly build custom designs without writing CSS from scratch.
 - **TypeScript:** Adds static typing to JavaScript, offering improved code quality, better developer experience, and enhanced maintainability.
-- **Shadcn:** A library for creating and managing reusable components in React, promoting code reusability and maintainability.
+- **ShadCN:** A library for creating and managing reusable components in React, promoting code reusability and maintainability.
 
-## Installation:
+## Installation :
 To use this template for your projects, follow these steps:
 
-1. Add this repository as a remote :
+1. Clone this repository :
    ```bash
-   git remote add source https://github.com/OyeRishab/react-pro-template.git
-2. Fetch all branches :
-	```bash 
-	git fetch source
-3. Merge the branches from the source repository :
-	```bash
-	git merge source/main --allow-unrelated-histories
-#
+   git clone https://github.com/OyeRishab/react-pro-template.git
+2. Install the modules : 
+	 ```bash
+	 npm install
+3. Install required Components from ShadCN : 
+	 ```bash
+	npx shadcn-ui@latest add
+4. Run it on localhost : 
+	 ```bash
+	 npm run dev
+	
 
