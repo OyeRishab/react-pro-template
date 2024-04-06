@@ -1,5 +1,5 @@
 
-# React Pro Template React+TypeScript+Tailwind+ShadCN
+# React Pro Template (React+TypeScript+Tailwind+ShadCN)
 
 This is a versatile ReactJS template designed to kickstart your web development projects. It comes pre-configured with popular libraries and tools such as React Router DOM for routing, Tailwind CSS for styling, and TypeScript for type-checking your code. Additionally, it leverages ShadCN for reusable components, helping you build robust and scalable applications effortlessly.
 
