@@ -24,6 +24,9 @@ To use this template for your projects, follow these steps:
 4. Run it on localhost : 
 	 ```bash
 	 npm run dev
+5. Move File :
+   	```bash
+    	mv react-pro-template/* ./
 #
 	
 
